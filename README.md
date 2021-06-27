@@ -1,8 +1,10 @@
 # simbologia
 
-Repositório destinado ao compartilhamento de simbologias QGIS. 
+Repositório destinado ao compartilhamento de stylos para o QGIS. 
 
  - Estilo Xilogravura¹
+ - Legend Path Estados Brasileiros
+ - Legend Peth Biomas Brasileiros
 
 
 
