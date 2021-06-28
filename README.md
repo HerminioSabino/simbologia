@@ -1,4 +1,4 @@
-# Stilos QGIS
+# Estilos QGIS
 
 Repositório destinado ao compartilhamento de stylos para o QGIS. 
 
