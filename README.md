@@ -7,6 +7,7 @@ Repositório destinado ao compartilhamento de stylos para o QGIS.
  - Legend Path Estados Brasileiros²
  - Legend Peth Biomas Brasileiros²
 
+![image](https://user-images.githubusercontent.com/27819904/123563963-dd69ef80-d78d-11eb-8079-39b434dcfca6.png)
 
 
 
@@ -36,7 +37,10 @@ Repositório destinado ao compartilhamento de stylos para o QGIS.
 ![image](https://user-images.githubusercontent.com/27819904/123563774-d9899d80-d78c-11eb-89bd-f0bade5a0934.png)
 
 5. Após adicionar você pode navegar pelas abas e vericar em quais as opções de estilo o arquivo .xml representa
-- Obs: Alguns possui estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path.
+- Obs: Alguns possui estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path, para rotúlos, ramapa de cores
+
+
+
 
 ### Fique a vontade para contribuir com o repositório. Novos estilos são bem vindos
 
