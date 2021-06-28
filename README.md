@@ -42,7 +42,7 @@ Repositório destinado ao compartilhamento de stylos para o QGIS.
 
 
 
-### Fique a vontade para contribuir com o repositório. Novos estilos são bem vindos
+### Fique a vontade para contribuir com o repositório. Novos estilos são bem-vindos
 
 ## Se encontrou algum erro, por favor notificar. 
 
