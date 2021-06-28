@@ -37,7 +37,7 @@ Repositório destinado ao compartilhamento de stylos para o QGIS.
 ![image](https://user-images.githubusercontent.com/27819904/123563774-d9899d80-d78c-11eb-89bd-f0bade5a0934.png)
 
 5. Após adicionar você pode navegar pelas abas e vericar em quais as opções de estilo o arquivo .xml representa
-- Obs: Alguns possui estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path, para rotúlos, ramapa de cores
+- Obs: Alguns possuem estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path, para rotúlos, ramapa de cores
 
 
 
